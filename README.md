@@ -7,4 +7,4 @@ Nate Silver's [fivethirtyeight](https://fivethirtyeight.com/) hosts a fun brain 
 
 ### [Can You Find The Best Dungeons & Dragons Strategy?](https://fivethirtyeight.com/features/can-you-find-the-best-dungeons-dragons-strategy/)
 
-May 15, 2020. A fun probability exercise exploring the advantage and disadvantage rules in D&D Fifth Edition.
+May 15, 2020. A fun probability exercise exploring the advantage and disadvantage rules in D&D Fifth Edition. File: 05152020_DnD.ipynb.
